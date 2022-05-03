@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Pranami/static/css/main.94b4b180.css",
+    "main.js": "/Pranami/static/js/main.752868d3.js",
+    "static/js/787.f25f0d4f.chunk.js": "/Pranami/static/js/787.f25f0d4f.chunk.js",
+    "static/media/back.jpg": "/Pranami/static/media/back.db05848b177da2622914.jpg",
+    "static/media/shreekrishna.jpg": "/Pranami/static/media/shreekrishna.d43635ce7ec18dc5232d.jpg",
+    "static/media/slick.svg": "/Pranami/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Pranami/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Pranami/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Pranami/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Pranami/index.html",
+    "main.94b4b180.css.map": "/Pranami/static/css/main.94b4b180.css.map",
+    "main.752868d3.js.map": "/Pranami/static/js/main.752868d3.js.map",
+    "787.f25f0d4f.chunk.js.map": "/Pranami/static/js/787.f25f0d4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94b4b180.css",
+    "static/js/main.752868d3.js"
+  ]
+}
