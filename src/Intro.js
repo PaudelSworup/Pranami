@@ -8,7 +8,7 @@ const Intro = () => {
       <h2 style={{textAlign:'center'}}>Introduction</h2>
       <div className='intro_body'>
           <div className='image_section'>
-           <img src="/images/dev.jpg" alt="" />
+           <img src="https://4.bp.blogspot.com/-3mhFi2jW0zM/UHlXQjZMx8I/AAAAAAAAAnE/iArJ4i399Vs/s1600/Devchandraji+Maharaj.jpg" alt="" />
           </div>
           <div className='text_section'>
             <h2 style={{textAlign:'center'}}>

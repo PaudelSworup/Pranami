@@ -9,15 +9,16 @@ import Footer from "./Footer";
 function App() {
   return (
    <>
-    <Header />
    <Router>
+     <Header/>
      <Routes>
-     <Route path="/" element={<Home />} />
-     <Route path="/About" element= {<About />} />
-   </Routes>
+     <Route exact path="/" element={<Home/>} />
+     <Route exact path="/about" element={<About/>} />
+     </Routes>
+     <Footer />
    </Router>
-   <Footer />
-   
+  
+
    </>
   );
 }

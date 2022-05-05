@@ -1,20 +1,22 @@
 const images = [
     {
         id:1,
-        src:"images/raji.jpg"
+        src:"https://i.playboard.app/p/AAUvwnijPQdm3DZl29h6YytpXCUhJf1QN609v9k2Je6o/default.jpg"
     },
 
     {
         id:2,
-        src:"images/mandir.jpg"
+        src:"http://4.bp.blogspot.com/-3zv5x7Kqr1Q/VlFt6abpAUI/AAAAAAAABZI/DYZ5-xB61RU/s1600/DSC04666.JPG"
     },
 
     {
         id:3,
-        src:"images/pranath.jpg"
+        src:"http://2.bp.blogspot.com/-6AYM1HV1hNE/U3-IW1IU7UI/AAAAAAAAC2k/V2GRC_Sf77Q/s1600/Image_1.jpg"
     },
 
    
 ];
+
+// D:\reacttutorial\shreekrishna\public\images\back.jpg
 
 export default images;

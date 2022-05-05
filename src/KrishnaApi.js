@@ -1,7 +1,7 @@
 const Api = [
     {
         id:1,
-        img:"/images/dev.jpg",
+        img:"https://4.bp.blogspot.com/-3mhFi2jW0zM/UHlXQjZMx8I/AAAAAAAAAnE/iArJ4i399Vs/s1600/Devchandraji+Maharaj.jpg",
         classname:"intro_body hlo1",
         imageClassname:"img_section1",
         textClassname:"txt_section1",
@@ -10,7 +10,7 @@ const Api = [
 
     {
         id:2,
-        img:"/images/prannath2.jpg",
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW0gdec6xZJVWOD0ANfx1ADwtle3T5bDPJa0blif0X7rTLnFfovoyh9xBk6V7QGGjGQlI&usqp=CAU",
         classname:"intro_body hlo2",
         imageClassname:"img_section2",
         textClassname:"txt_section1",
@@ -20,7 +20,7 @@ const Api = [
 
     {
        id:3,
-       img:"/images/chatrasalji.jpg",
+       img:"https://mahamati.info/resources/MAHARAJAA%20CHHATRASAL%20JI%20PHOTO.jpg",
        classname:"intro_body hlo2",
        imageClassname:"img_section2",
        textClassname:"txt_section1",

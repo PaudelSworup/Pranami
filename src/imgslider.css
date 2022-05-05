@@ -20,15 +20,18 @@
 }
 
 .Wrap{
-    width: auto;
+    width: 100%;
     padding: 5px;
-    height: auto
+    height: 700px;
 }
 
 .Wrap>img{
     border: 4px solid transparent;
     width: 100%;
-    object-fit: contain;
+    object-fit: fill;
+    height: 100%;
+    max-width: 100%;
+    max-height: 100%;
     /* height: 100%; */
     border-radius: 4px;
     box-shadow: rgb(0 0 0 / 69%) 0px 26px 30px -10px, rgb(0 0 0 / 73%) 0px 16px 10px -10px;
@@ -37,4 +40,11 @@
 
 .Wrap>img:hover{
     border: 4px solid rgba(249, 249, 249, 0.8);
+}
+
+
+@media(max-width:800px){
+    .Wrap{
+        height: 300px;
+    }
 }

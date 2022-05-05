@@ -44,7 +44,7 @@ const Header = () => {
   return (
   <>
   <nav className='Header'>
-  <img src="/images/shreekrishna.jpg" className='logoimg' alt='' />
+  <img src="https://wallpapers.oneindia.com/ph-1024x768/2013/11/shree-krishna-wallpaper_138536341820.jpg" className='logoimg' alt='' />
   <div className={toggle ? 'NavMenu active' : 'NavMenu'}>
     <a href='/'>
         <span>Home</span>
